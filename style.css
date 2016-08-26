@@ -1,0 +1,79 @@
+.pb-center-column > h1 {
+    background-color: #F44051;
+    color: #fff;
+    padding: 2rem;
+}
+.content_prices {
+    background-color: #F44051;
+}
+#our_price_display {
+    color: #fff;
+}
+#pretaxe_price {
+    color: #fff !important;
+}
+#pretaxe_price_display {
+    color: #fff;
+}
+.dropt {
+    color: #ccc;
+}
+h3.page-product-heading {
+    background-color: #F44051;
+    color: #fff;
+    border: 0;
+    margin: 0 0 0;
+}
+#new_comment_tab_btn {
+    margin-top: 3rem;
+}
+.rte {
+    background: rgb(253, 253, 253) none repeat scroll 0% 0% !important;
+    padding: 2rem !important;
+    margin-bottom: 2rem;
+}
+.full-info > h1 {
+    text-align: center;
+}
+.full-info > h3 {
+    text-align: center;
+}
+.full-info > p {
+    text-align: center;
+    font-size: 1.8rem;
+}
+.ul-main {
+    width: 70%; 
+    margin: 0 auto; 
+    text-align: justify; 
+    margin-bottom: 3rem; 
+    font-size: 1.7rem;
+}
+.ul-main > li {
+    list-style-type: decimal; 
+    padding-bottom: 2px;
+}
+.ul-second {
+    width: 80%; 
+    margin: 0 auto; 
+    text-align: justify; 
+    margin-bottom: 3rem; 
+    font-size: 1.7rem; 
+    padding-bottom: 3rem;
+}
+.ul-second > li {
+    list-style-type: none; 
+    padding: 10px 5px; 
+    border-bottom: 2px dashed #C7D5E2;
+}
+.table-data-sheet tr {
+    text-transform: uppercase;
+}
+.table-data-sheet {
+    border: 1px solid #d6d4d4;
+    margin: 0 0 0;
+    width: 100%;
+    background: white;
+    text-align: center;
+    margin-bottom: 3rem;
+}
